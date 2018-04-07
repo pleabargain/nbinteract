@@ -7,6 +7,7 @@ nbinteract
 
 [![Read the Docs](https://img.shields.io/badge/docs-gitbook-green.svg)][docs]
 [![Gitter](https://badges.gitter.im/owner/repo.png)][gitter]
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pleabargain/nbinteract/master)
 
 
 `nbinteract` is a Python package that creates interactive webpages from Jupyter
