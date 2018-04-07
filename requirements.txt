@@ -11,3 +11,4 @@ nbinteract>=0.1.7, <.2
 plotly>=2.5.1, <3
 matplotlib>=2.2.2, <3
 seaborn>=0.8.1, <1
+datascience>=0.10.4, <1
